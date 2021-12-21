@@ -1,0 +1,21 @@
+#container{
+    background-image:url('images/wood.jpg');
+    margin: 100px auto 20px;
+    height: 300px;
+    width: 300px;
+    background-color: darksalmon;
+    position: relative;
+}
+#drone{
+    bottom: 0px;
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    
+}
+
+#button{
+    margin: 0 auto;
+    text-align: center;
+}
+
